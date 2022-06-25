@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 
 int allIndices(int arr[], int size, int x, int output[]) {
